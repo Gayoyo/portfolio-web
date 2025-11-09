@@ -1,0 +1,4 @@
+project plan
+1.Aplikasi Web Klasifikasi Gambar Sederhana: Upload gambar, lalu model ML-mu akan menebak isinya (misal: membedakan jenis kopi, model pakaian, dll.).
+2.Sistem Rekomendasi Sederhana: Buat web e-commerce palsu dengan 50 produk, lalu bangun sistem yang merekomendasikan produk lain berdasarkan apa yang dilihat user.
+3.Tools Otomatisasi Data: Aplikasi yang bisa meng-extract data dari PDF atau gambar struk belanjaan dan menampilkannya dalam tabel.

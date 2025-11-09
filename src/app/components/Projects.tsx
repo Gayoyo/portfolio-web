@@ -5,28 +5,22 @@ import { ExternalLink } from "lucide-react";
 
 const projects = [
   {
-    title: "Inventory Management VUI",
-    description:
-      "A fullstack inventory system with QR code, voice control (VUI), and AI features. Built using PHP + MySQL + Tailwind.",
-    link: "#",
-  },
-  {
     title: "Tanyain (Chatbot SaaS)",
     description:
-      "A chatbot SaaS platform with TF-IDF NLP engine, dashboard, training system via CSV/manual, and analytics.",
-    link: "#",
+      "anyain adalah sistem Chatbot FAQ berbasis AI yang dirancang untuk membantu UMKM, sekolah, dan klinik kecil menjawab pertanyaan pelanggan secara otomatis.Platform ini mendukung multi-klien dengan dashboard admin modern, analitik chatbot, serta sistem approval dari superadmin.",
+    link: "https://github.com/Gayoyo/Tanyain-Customer-Service",
   },
   {
-    title: "Job Finder SMK",
+    title: "Noken Terbang Map",
     description:
-      "Platform web untuk membantu siswa SMK yang baru lulus dalam mencari lowongan kerja, lengkap dengan filter berdasarkan jurusan dan lokasi.",
-    link: "#",
+      "Noken Terbang Map adalah proyek visualisasi peta interaktif yang menampilkan jalur dan area operasi drone di wilayah pedalaman Papua. Aplikasi ini dirancang untuk membantu pemetaan, perencanaan rute pengiriman udara, dan eksplorasi wilayah menggunakan antarmuka berbasis peta yang intuitif dan futuristik.",
+    link: "https://gayoyo.github.io/Noken-Terbang/",
   },
   {
     title: "Anime List Web App",
     description:
       "Fullstack web app for managing anime lists with authentication and API integration.",
-    link: "#",
+    link: "https://github.com/Gayoyo/Gayoanimelist",
   },
 ];
 
